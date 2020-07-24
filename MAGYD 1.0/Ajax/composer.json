@@ -1,0 +1,14 @@
+{
+    "name": "iagom/ajax",
+    "authors": [
+        {
+            "name": "Iago Macedo",
+            "email": "iagomacedo.ip68@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app//":"app"
+        }
+    }
+}
